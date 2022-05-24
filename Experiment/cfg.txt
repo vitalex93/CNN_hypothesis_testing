@@ -1,0 +1,47 @@
+# Data directory
+data_dir = ./data/flowers
+
+# Noise type
+noise_type = s&p
+
+# Amount (Salt & Pepper)
+amount = 0.4
+
+# Mean (Gaussian & Speckle)
+mean = 0
+
+# Standard Deviation (Gaussian & Speckle)
+std = 0.5
+
+# Color map
+cmap = RGB
+
+# Low subarea threshold
+subarea_low = 3
+
+# High subarea threshold
+subarea_high = 6
+
+# Low aspect ratio
+aspect_ratio_low = 1
+
+# High aspect ratio
+aspect_ratio_high = 5
+
+# Attempts (Random Eraser)
+attempts = 100
+
+# Initial erasing probability
+init_erasing_prob = 0.3
+
+# Model selection
+model = resnet18
+
+# Epochs
+epochs = 50
+
+epsilon = 0.2
+
+iters = 5
+
+alpha = 0.008
