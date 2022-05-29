@@ -1,6 +1,4 @@
-# A study of the effect of feature noise on different neural network algorithms
-
-Collaborative project.
+See branch "master"
 
 
 
